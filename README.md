@@ -25,6 +25,7 @@ select /dev/sda
 resize part 3 100%
 q
 ```
+## Physical Volume
 
 ```bash
 pvdisplay
