@@ -37,7 +37,7 @@ pvdisplay
 pvresize /dev/sda3
 ```
 
-## LVG e LV
+## VG e LV
 
 ```bash
 sudo vgdisplay
